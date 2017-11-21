@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SentiCam</string>
+    <string name="snap_photo">Snap photo</string>
+    <string name="select_from_gallery">Select from gallery</string>
+    <string name="no_results_yet">Snap or select a photo to see sentiment results</string>
+    <string name="detected_face_image_content_description">Detected face</string>
 </resources>
